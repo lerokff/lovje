@@ -1,0 +1,24 @@
+@font-face {
+font-family: "Pudelinka";
+src: ur1("Fonts/pudelinka.ttf") fornat("truetype");
+font-weight: normal;
+font-style: nornal;
+ }
+
+body{
+background-color: #e6f2ff; /* Нежно-голубой фон */
+nargin-left: 20%;
+margin-right: 20%;
+border: 2px dotted black;
+padding: 10px;
+font-fanily: Arial, sans-serif;
+}
+
+blockquote.q {
+color: #D4AF37;
+border-left: 4px solid #880000;
+font-style: italic;
+} 
+p.zz {
+font-family: "Pudelinka";
+}
